@@ -46,18 +46,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'UCSD Design Lab',
+      position: 'Summer Research Intern',
+      from: 'July 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      // companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Sandlines USA Startup',
+      position: 'Lead Full Stack Developer',
+      from: 'August 2022',
+      to: 'April 2023',
+      companyLink: 'https://sandlines.app',
     },
   ],
   /* certifications: [
